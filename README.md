@@ -1,4 +1,4 @@
-![](images/CSUCHICO-Seal.png)
+![](Images/CSUCHICO-Seal.png)
 # MADT307 Fall 2022
 ## Toto Albano-Dito | Blogs
 
