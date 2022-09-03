@@ -7,7 +7,7 @@
 8/25/2022
 
 1. 1917 wall phone which rewquired its own battery for power
-![](Images/WallPhone.png)
+![](Images/WallPhone.jpg
 
 link: https://commons.wikimedia.org/wiki/File:Magneto_wall_telephone_1917_open.jpg
 
