@@ -3,8 +3,17 @@
 ## Toto Albano-Dito | Blogs
 
 ------------------------------------------------------------------------------------------------------
+### Assignment #3 - Kickstart Start
+9/09/2022
+
+Remote learning and working technology have had a significant impact on our society that we haven’t seen before in human history till now. It interests me because before technological advances the only way to learn something without the help of others is through books. Now at the time not everyone could read, books were limited, and it was most likely difficult to find the exact book you need let alone if the information was accurate or not. Now because of the availability of the internet, all sources on anything you want is literally at your fingertips. They way people properly learn was through others and more so in person. But with the use of internet people are able to educate each other remotely as we are now all digitally connected. Learning has also in ways became easier, when we compare lecturing to creative videos, podcasts, websites etc. learning has become more than just audio learning, but a visual experience with the creativeness a computer and internet offers. We even see since the covid pandemic classrooms don’t necessarily have to be in person, an impossible foot before the use of internet. Now classrooms can be filled virtually through a computer.
+
+This technology hasn't only affected the classroom but work as well. Again, since the pandemic work was something, you go to not something you had the luxury to be at home for. But since work for primarily white-collar labor was in the office, people released while stuck at home that the home could be just as productive or potentially more for some at home. The indirect effect was the damage to office culture, as we see across the states many offices remain vacant despite people return to work after the pandemic. Something interesting would be examining the indirect effects of this. We see how the office culture was effected but will it dramatically effort school culture as well?
+
+
+------------------------------------------------------------------------------------------------------
 ### Assignment #2 - History in Pictures
-8/25/2022
+9/4/2022
 
 1. Wall phone which rewquired its own battery for power 1917
 
