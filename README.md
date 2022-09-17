@@ -16,7 +16,7 @@ Anthony Rincon
 
 - Tuesdays & Thursdays 6-9 pm
 
-Communication:
+#### Communication:
 
 - Discord / zoom / in-person
 
