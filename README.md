@@ -3,6 +3,36 @@
 ## Toto Albano-Dito | Blogs
 
 ------------------------------------------------------------------------------------------------------
+### Assignment #4 - Group Rules
+9/16/2022
+
+Kickstart Team 3: 
+Toto Albano-Dito
+Karamvir Janda
+Aviana Loveall
+Anthony Rincon
+
+Meeting times: 
+Tuesdays & Thursdays 6-9 pm
+
+Communication:
+Discord / zoom / in-person
+File sharing on google drive 
+
+Guidelines / Rules:
+Everyone participates within the meetings when communicating work contribution
+If a member is unable to participate for any reason, said member must at least inform the group of the absence 
+We will try to meet at least 2 times a week around night (times are flexible)
+Contributions will be evenly distributed throughout the semester, if someone cannot fully participate for one assignment, they can make it up on the next one
+Communication is most important, if you CANNOT participate for a moment, please communicate this to the group
+WARNING failing to communicate with the team why you aren't participating will result in name crossed out of assignments and continuation will lead to kick from group
+
+General Topic: A Skill-Share Like website/app
+Kick Start an internet website where people can learn and  remotely from home 
+People can share their knowledge to others through the internet 
+Exploring remote learning technologies 
+
+------------------------------------------------------------------------------------------------------
 ### Assignment #3 - Kickstart Start
 9/09/2022
 
