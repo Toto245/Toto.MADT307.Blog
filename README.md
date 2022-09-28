@@ -3,6 +3,18 @@
 ## Toto Albano-Dito | Blogs
 
 ------------------------------------------------------------------------------------------------------
+### Assignment #5 - Research and APA
+9/22/2022
+
+1. Ostic, D., Qalati, S., Barbosa, B., Shah, S., Galvan Vela, E., Herzallah, A., & Liu, F. (0001, January 01). Effects of social media use on psychological well-being: A mediated model. Retrieved September 28, 2022, from https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678766/full
+
+this article is an interesting journal entry on the effects of social media use on phsychological well being. there are conserns of addiction and phsychological damage social media has displayed on the user and in turn society. its not all negative for there is a sense of "connectedness" social media provides to people around the world. communities connected through the interent and communicated through social media that we have not seen in human history till the modern era. this article goes into the pros and cons of social media and how we access it.
+
+2. Hetler, A. (2022, June 09). 9 social media trends in 2022. Retrieved September 28, 2022, from https://www.techtarget.com/whatis/feature/9-social-media-trends
+
+this article is quite interesting as it goes into some prodections we will see in the future when it comes to social media. for example, the expansion of video content and commercial advertisment. local targeting will grow which in my opinion is an extreme ethical issue when it comes to privacy rights. and tiktok will most likely continue growing possibly larger than instagram/facebook
+
+------------------------------------------------------------------------------------------------------
 ### Assignment #4 - Group Rules
 9/16/2022
 
