@@ -2,6 +2,22 @@
 # MADT307 Fall 2022
 ## Toto Albano-Dito | Blogs
 
+
+------------------------------------------------------------------------------------------------------
+### Assignment #8 - Inclusive Gaming
+
+
+------------------------------------------------------------------------------------------------------
+### Assignment #7 - Digital Divide
+10/14/2022
+
+The digital divide Is a serious problem and something that should have a larger priority within our country especially based on how developed we are as a nation. We have both the work force and the economy/resources to achieve this and there is real necessity to get this done and improve society. 
+as human society moves further into the modern era our reliance on technology and specifically access to the internet increases. It’s were we hear about the news, find and apply for jobs, learn and teach, find entertainment etc. This list can go on forever that it is safe to say that it is factually impossible to live without it in a developed country. To be able to access the internet individuals need access to computers and Wi-Fi. For the US we have one of the most expensive services and not guaranteed coverage. Obviously like many things related to US domestic policy. Low-income families are left without this necessity and middle income families struggle to make the bills on time every month. 
+
+The way to fix it is an incredibly controversial subject because the solution relates to many other possible solutions which unfortunately goes against some people’s political/economic views. This isn’t a local problem or a state problem (in relation to our country) this is a federal (national) problem. We lack a government which prioritizes the necessities to its populous do to (in this scenario) internet companies lobbying for personal profit. This should not be a controversial fact https://arstechnica.com/tech-policy/2021/07/isps-spent-235-million-on-lobbying-and-donations-more-than-320000-a-day/ . this is a repetitive story with all our domestic policies.
+
+I believe that Internet access is in fact a necessity therefore a priority for the government to provide to all of its citizens and this goal is extremely achievable.
+
 ------------------------------------------------------------------------------------------------------
 ### Assignment #5 - Research and APA
 9/22/2022
